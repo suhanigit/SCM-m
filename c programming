@@ -7,5 +7,5 @@ int main(){
   printf("The sum of a and b is: %d",c);
   return 0;
 }
-hello
+BYE TEJ
 
